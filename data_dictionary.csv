@@ -1,0 +1,11 @@
+Column Name,Description
+customer_id,Unique ID for each customer
+customer_city,City of customer
+customer_state,State of customer
+order_id,Unique ID for each order
+order_status,Current status of order
+order_purchase_timestamp,Date and time of order purchase
+product_category_name,Category of product
+product_weight_g,Weight of product in grams
+payment_type,Type of customer payment
+payment_value,Amount paid by customer
