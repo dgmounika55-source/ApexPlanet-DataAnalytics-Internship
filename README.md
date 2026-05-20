@@ -1,4 +1,4 @@
-# ApexPlanet-DataAnalytics-Internship
+# ApexPlanet DataAnalytics Internship
 
 ## Task 1 - Data Immersion & Wrangling
 
@@ -32,3 +32,26 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Data Profiling
 - Data Transformation
 - Dataset Documentation
+  ---
+
+# Task 2 - Exploratory Data Analysis (EDA)
+
+## Work Performed
+- Payment statistics analysis
+- Payment method analysis
+- Monthly order trend analysis
+- Order status analysis
+- Top payment analysis
+- Data visualization using charts
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Key Insights
+- Credit cards were the most used payment method
+- Most orders were successfully delivered
+- Monthly sales trends were identified
+- High-value customer payments were analyzed
