@@ -55,3 +55,36 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Most orders were successfully delivered
 - Monthly sales trends were identified
 - High-value customer payments were analyzed
+  ---
+
+# Task 3 - SQL for Data Analysis
+
+## Work Performed
+- Created SQLite database
+- Imported CSV datasets into SQLite
+- Executed SQL queries for business analysis
+- Performed revenue and payment analysis
+- Analyzed order statuses and payment methods
+- Used filtering, grouping, sorting, and aggregation functions
+
+## Tools Used
+- SQLite
+- DB Browser for SQLite
+- SQL
+- GitHub
+
+## SQL Concepts Used
+- SELECT
+- COUNT
+- GROUP BY
+- ORDER BY
+- WHERE
+- SUM
+- AVG
+- LIMIT
+
+## Key Insights
+- Most orders were successfully delivered
+- Credit cards generated the highest revenue
+- High-value transactions were identified
+- Payment installment patterns were analyzed
