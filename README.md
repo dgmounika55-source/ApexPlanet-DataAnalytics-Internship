@@ -117,3 +117,32 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Credit cards were the most used payment method
 - Total revenue exceeded 16 million
 - Customer payment trends were analyzed
+  ---
+
+# Task 5 - Final Data Analytics Project
+
+## Work Performed
+- Combined Python, SQL, and Power BI analysis
+- Created complete end-to-end analytics workflow
+- Developed final business analysis documentation
+- Created final dashboard showcase
+- Generated business insights from E-Commerce dataset
+
+## Technologies Used
+- Python
+- SQL
+- SQLite
+- Power BI
+- GitHub
+
+## Final Deliverables
+- Final Project Report
+- Project Summary
+- Dashboard Screenshot
+- Business Insights Documentation
+
+## Key Insights
+- Revenue exceeded 16 million
+- Credit cards generated highest revenue
+- Most orders were delivered successfully
+- Customer payment behavior was analyzed
