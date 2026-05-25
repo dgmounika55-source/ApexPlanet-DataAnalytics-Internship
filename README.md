@@ -88,3 +88,32 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Credit cards generated the highest revenue
 - High-value transactions were identified
 - Payment installment patterns were analyzed
+  ---
+
+# Task 4 - Power BI Dashboard
+
+## Work Performed
+- Created interactive Power BI dashboard
+- Imported and transformed e-commerce datasets
+- Built KPI cards and business charts
+- Performed revenue and payment analysis
+- Visualized customer payment behavior
+
+## Tools Used
+- Power BI
+- Power Query
+- Data Visualization
+- GitHub
+
+## Dashboard Visuals
+- Total Orders KPI
+- Total Revenue KPI
+- Average Payment KPI
+- Payment Method Pie Chart
+- Order Status Bar Chart
+
+## Key Insights
+- Most orders were successfully delivered
+- Credit cards were the most used payment method
+- Total revenue exceeded 16 million
+- Customer payment trends were analyzed
