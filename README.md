@@ -32,7 +32,7 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Data Profiling
 - Data Transformation
 - Dataset Documentation
-  ---
+
 
 # Task 2 - Exploratory Data Analysis (EDA)
 
@@ -55,7 +55,7 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Most orders were successfully delivered
 - Monthly sales trends were identified
 - High-value customer payments were analyzed
-  ---
+  
 
 # Task 3 - SQL for Data Analysis
 
@@ -88,7 +88,7 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Credit cards generated the highest revenue
 - High-value transactions were identified
 - Payment installment patterns were analyzed
-  ---
+  
 
 # Task 4 - Power BI Dashboard
 
