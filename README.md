@@ -117,7 +117,7 @@ The objective of this task was to clean and prepare the Brazilian E-Commerce dat
 - Credit cards were the most used payment method
 - Total revenue exceeded 16 million
 - Customer payment trends were analyzed
-  ---
+  
 
 # Task 5 - Final Data Analytics Project
 
